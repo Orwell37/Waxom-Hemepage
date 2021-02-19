@@ -1,0 +1,29 @@
+.container {
+	max-width: 1230px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+
+.site-container {
+	overflow: hidden;
+}
+
+.flex {
+	display: flex;
+}
+
+.button {
+	font-family: 'ralewayExtaBold', sans-serif;
+	margin-top: 4vmax;
+	width: 171px;
+	height: 54px;
+	font-size: 14px;
+	color: var(--white-color);
+	border-radius: 3px;
+	border: none;
+	border-bottom: 3px solid #736357;
+	text-transform: uppercase;
+	background-color: var(--backgroungButton-color);
+	cursor: pointer;
+
+}
